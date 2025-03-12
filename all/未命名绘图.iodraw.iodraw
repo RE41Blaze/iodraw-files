@@ -53,17 +53,16 @@
         <mxCell id="7HT0iob_8GZdQ5GuibXR-12" value="石蜡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7HT0iob_8GZdQ5GuibXR-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7HT0iob_8GZdQ5GuibXR-28" target="7HT0iob_8GZdQ5GuibXR-26">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="499.58" y="200" as="sourcePoint" />
-            <mxPoint x="500" y="310" as="targetPoint" />
+        <mxCell id="7HT0iob_8GZdQ5GuibXR-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7HT0iob_8GZdQ5GuibXR-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="294.83333333333337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7HT0iob_8GZdQ5GuibXR-19" value="粉料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7HT0iob_8GZdQ5GuibXR-26" value="聚氨酯涂料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="380" width="80" height="40" as="geometry" />
+          <mxGeometry x="460" y="370" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7HT0iob_8GZdQ5GuibXR-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7HT0iob_8GZdQ5GuibXR-11" target="7HT0iob_8GZdQ5GuibXR-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
