@@ -40,11 +40,6 @@
         <mxCell id="7HT0iob_8GZdQ5GuibXR-11" value="聚醚" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7HT0iob_8GZdQ5GuibXR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7HT0iob_8GZdQ5GuibXR-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="219.83333333333337" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7HT0iob_8GZdQ5GuibXR-12" value="石蜡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="200" width="60" height="40" as="geometry" />
         </mxCell>
@@ -52,11 +47,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="499.58" y="200" as="sourcePoint" />
             <mxPoint x="500" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7HT0iob_8GZdQ5GuibXR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7HT0iob_8GZdQ5GuibXR-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="269.83333333333337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7HT0iob_8GZdQ5GuibXR-19" value="粉料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
