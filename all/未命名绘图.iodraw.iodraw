@@ -65,6 +65,9 @@
         <mxCell id="7HT0iob_8GZdQ5GuibXR-26" value="聚氨酯涂料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="380" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="7HT0iob_8GZdQ5GuibXR-28" value="真空脱水" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="310" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
