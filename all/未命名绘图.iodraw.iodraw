@@ -23,10 +23,22 @@
           <mxGeometry x="360" y="200" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6ogUfPNaAahD3AchSLOe-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="230" width="80" height="40" as="geometry" />
+          <mxGeometry x="600" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6ogUfPNaAahD3AchSLOe-8" value="原料" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="230" width="80" height="40" as="geometry" />
+          <mxGeometry x="600" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ogUfPNaAahD3AchSLOe-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ogUfPNaAahD3AchSLOe-10" value="原料" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ogUfPNaAahD3AchSLOe-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ogUfPNaAahD3AchSLOe-12" value="原料" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
